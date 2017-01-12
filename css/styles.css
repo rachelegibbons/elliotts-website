@@ -1,0 +1,29 @@
+body {
+  font-family: monospace;
+  text-align: center;
+}
+
+h1 {
+  font-size: 68px;
+  color: black;
+}
+
+img {
+  max-width: 100%;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+a:link, a:active, a:visited {
+  color: black;
+}
+
+a:hover {
+  background-color: yellow;
+}
